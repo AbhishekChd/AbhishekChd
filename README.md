@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey there! I'm Abhishek Chaudhary</h2>
 
-<div align="center"><code> <a href="abhishekchaudhary.dev">abhishekchaudhary.dev</a> </code></div>
+<div align="center"><code> <a href="https://abhishekchaudhary.dev/" target="_blank">abhishekchaudhary.dev</a> </code></div>
 <br/>
 
 ```
